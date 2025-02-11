@@ -1,2 +1,6 @@
 host-suffix,wechat.com,direct
 host-suffix,weixin.qq.com,direct
+
+host-keyword,apple,direct
+host-keyword,icloud.direct
+host-suffix,me.com,direct
