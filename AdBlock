@@ -1,2 +1,3 @@
 # 动卡空间
 ^https?:\/\/ebank\.credicard\.ecitic\.com\/citiccard\/wtk url reject-dict
+^https?:\/\/ump\.sz\.creditcard\.ecitic\.com\/citiccard\/cm-ump\/ump-gateway\/ump-net-app\/ump-net-app\/adv url reject-200
