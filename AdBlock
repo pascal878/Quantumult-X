@@ -1,7 +1,7 @@
 # 动卡空间
 #^https?:\/\/ebank\.credicard\.ecitic\.com\/citiccard\/wtk url reject-dict
 ^https?:\/\/ump\.sz\.creditcard\.ecitic\.com\/citiccard\/cm-ump\/ump-gateway\/ump-net-app\/ump-net-app\/adv url reject-200
-#^https?:\/\/m\.creditcard\.ecitic\.com\/citiccard\/mbk\/appspace-getway\/getWay\/dkkj-system-web\/system\/v\d\/init-config url reject-200
+^https?:\/\/device\.cup\.com\.cn\/dcs_svc\/rest\/outer\/devinfo\/sessionAck url reject-200
 
 
 #MITM
