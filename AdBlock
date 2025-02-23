@@ -6,12 +6,12 @@
 ^https?:\/\/res\.xiaojukeji\.com\/resapi\/activity\/get(Ruled|Preload|PasMultiNotices) url reject-200
 
 # 嘀嗒出行
-;^https?:\/\/capis(-?\w*)?\.didapinche\.com\/ad\/boot\? url reject
-;^https?:\/\/capis(-?\w*)?\.didapinche\.com\/ad\/event? url reject-dict
-;^https?:\/\/capis(-?\w*)?\.didapinche\.com\/ad\/ride\/detail\? url reject-dict
-;^https?:\/\/capis(-\d)?\.didapinche\.com\/ad\/ url reject
-;^https?:\/\/capis-slb\.didapinche\.com\/ad\/ url reject
-;^https?:\/\/capis\.didapinche\.com\/ad\/ url reject
+^https?:\/\/capis(-?\w*)?\.didapinche\.com\/ad\/boot\? url reject
+^https?:\/\/capis(-?\w*)?\.didapinche\.com\/ad\/event? url reject-dict
+^https?:\/\/capis(-?\w*)?\.didapinche\.com\/ad\/ride\/detail\? url reject-dict
+^https?:\/\/capis(-\d)?\.didapinche\.com\/ad\/ url reject
+^https?:\/\/capis-slb\.didapinche\.com\/ad\/ url reject
+^https?:\/\/capis\.didapinche\.com\/ad\/ url reject
 ^https?:\/\/www\.didapinche\.com\/app\/adstat\/ url reject
 
 hostname=ump.sz.creditcard.ecitic.com, capis*.didapinche.com, www.didapinche.com
