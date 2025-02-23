@@ -7,6 +7,6 @@
 
 # 嘀嗒出行
 ^https?:\/\/capis*\.didapinche\.com\/ad\/cx\/startup* url reject-200
-^https?:\/\/api-acess\.pangolin*\.com\/api\/ad\/union\/sdk\/stats* url reject-200
+^https?:\/\/api\-acess\.pangolin*\.com\/api\/ad\/union\/sdk\/stats* url reject-200
 
 hostname=ump.sz.creditcard.ecitic.com
