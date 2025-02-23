@@ -12,5 +12,6 @@
 ^https?:\/\/capis(-\d)?\.didapinche\.com\/ad\/ url reject
 ^https?:\/\/capis-slb\.didapinche\.com\/ad\/ url reject
 ^https?:\/\/capis\.didapinche\.com\/ad\/ url reject
+^https?:\/\/www\.didapinche\.com\/app\/adstat\/ url reject
 
-hostname=ump.sz.creditcard.ecitic.com
+hostname=ump.sz.creditcard.ecitic.com, capis*.didapinche.com, www.didapinche.com
