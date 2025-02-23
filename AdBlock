@@ -1,5 +1,7 @@
 # 动卡空间
 ^https?:\/\/ump\.sz\.creditcard\.ecitic\.com\/citiccard\/cm-ump\/ump-gateway\/ump-net-app\/ump-net-app\/adv url reject-200
+^https:\/\/imcs\.citicbank\.com\/cloud\/.+(1125.+2436|1242.+2688) url reject-200
+^https?:\/\/m\.creditcard\.ecitic\.com\/citiccard\/mbk\/appspace-getway\/getWay\/dkkj-system-web\/system\/v\d\/init-config url reject-200
 
 # 滴滴出行
 ^https?:\/\/res\.xiaojukeji\.com\/resapi\/activity\/mget url reject-200
@@ -14,4 +16,4 @@
 ^https?:\/\/capis\.didapinche\.com\/ad\/ url reject
 ^https?:\/\/www\.didapinche\.com\/app\/adstat\/ url reject
 
-hostname=ump.sz.creditcard.ecitic.com, capis*.didapinche.com, www.didapinche.com
+hostname=ump.sz.creditcard.ecitic.com,m.creditcard.ecitic.com, capis*.didapinche.com, www.didapinche.com
