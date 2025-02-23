@@ -1,8 +1,9 @@
 # 动卡空间
-#^https?:\/\/ebank\.credicard\.ecitic\.com\/citiccard\/wtk url reject-dict
 ^https?:\/\/ump\.sz\.creditcard\.ecitic\.com\/citiccard\/cm-ump\/ump-gateway\/ump-net-app\/ump-net-app\/adv url reject-200
-^https?:\/\/device\.cup\.com\.cn\/dcs_svc\/rest\/outer\/devinfo\/sessionAck url reject-200
 
+# 滴滴出行
+^https?:\/\/res\.xiaojukeji\.com\/resapi\/activity\/mget url reject-200
+^https?:\/\/res\.xiaojukeji\.com\/resapi\/activity\/get(Ruled|Preload|PasMultiNotices) url reject-200
 
 #MITM
 hostname=ump.sz.creditcard.ecitic.com
