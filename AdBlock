@@ -5,5 +5,7 @@
 ^https?:\/\/res\.xiaojukeji\.com\/resapi\/activity\/mget url reject-200
 ^https?:\/\/res\.xiaojukeji\.com\/resapi\/activity\/get(Ruled|Preload|PasMultiNotices) url reject-200
 
-#MITM
+# 嘀嗒出行
+^https?:\/\/capis\.*didapinche\.com\/ad\/cx\/startup url reject-200
+
 hostname=ump.sz.creditcard.ecitic.com
