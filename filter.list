@@ -1,6 +1,10 @@
 host-suffix,wechat.com,direct
 host-suffix,weixin.qq.com,direct
 
+HOST-SUFFIX, chinatax.gov.cn, DIRECT
+HOST-SUFFIX, etax.gov.cn, DIRECT
+HOST, app.etax.gov.cn, DIRECT
+
 host-keyword,apple,Apple
 host-keyword,icloud,Apple
 host-suffix,me.com,Apple
