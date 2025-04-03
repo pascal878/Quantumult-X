@@ -6,35 +6,6 @@ HOST-SUFFIX, etax.gov.cn, DIRECT
 HOST, etax-xwcj.chongqing.chinatax.gov.cn, DIRECT
 HOST, dtax.chongqing.chinatax.gov.cn, DIRECT
 
-host-keyword,apple,Apple
-host-keyword,icloud,Apple
-host-suffix,me.com,Apple
-HOST-WILDCARD,*-content.icloud.com.cn,Apple
-HOST-WILDCARD,apple.*,Apple
-HOST-WILDCARD,apple.com.*,Apple
-HOST-WILDCARD,appleworldwidedeveloper.*.net,Apple
-HOST-WILDCARD,imac.*,Apple
-HOST-WILDCARD,init*.push-apple.com.akadns.net,Apple
-HOST-WILDCARD,init*.push.apple.com,Apple
-HOST-WILDCARD,ipad.*,Apple
-HOST-WILDCARD,ipadair.*,Apple
-HOST-WILDCARD,ipadmini.*,Apple
-HOST-WILDCARD,iphone.*,Apple
-HOST-WILDCARD,ipod.*,Apple
-HOST-WILDCARD,macbook.*,Apple
-HOST-WILDCARD,macbookair.*,Apple
-HOST-WILDCARD,macbookpro.*,Apple
-IP-CIDR,139.178.128.0/18,Apple
-IP-CIDR,144.178.0.0/19,Apple
-IP-CIDR,144.178.36.0/22,Apple
-IP-CIDR,144.178.48.0/20,Apple
-IP-CIDR,17.0.0.0/8,Apple
-IP-CIDR,192.35.50.0/24,Apple
-IP-CIDR,198.183.17.0/24,Apple
-IP-CIDR,205.180.175.0/24,Apple
-IP-CIDR,63.92.224.0/19,Apple
-IP-CIDR,65.199.22.0/23,Apple
-
 # NAME: OpenAI
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
