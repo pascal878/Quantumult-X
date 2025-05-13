@@ -1,7 +1,5 @@
 host-suffix,wechat.com,direct
 host-suffix,weixin.qq.com,direct
 
-HOST-SUFFIX, chongqing.chinatax.gov.cn, DIRECT
-HOST-SUFFIX, etax.gov.cn, DIRECT
-HOST, etax-xwcj.chongqing.chinatax.gov.cn, DIRECT
-HOST, dtax.chongqing.chinatax.gov.cn, DIRECT
+# > 中国移动
+IP-CIDR, 120.240.95.37/32, reject
